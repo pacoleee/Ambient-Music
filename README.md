@@ -1,3 +1,3 @@
 # Ambient-Music
-HTML website of ambient music
+HTML website about ambient music
 
